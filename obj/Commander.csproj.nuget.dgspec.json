@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patric\\projects\\Commander\\Commander.csproj": {}
+    "C:\\projects\\commander\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patric\\projects\\Commander\\Commander.csproj": {
+    "C:\\projects\\commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patric\\projects\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\projects\\commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "C:\\Users\\patric\\projects\\Commander\\Commander.csproj",
+        "projectPath": "C:\\projects\\commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\Patric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patric\\projects\\Commander\\obj\\",
+        "outputPath": "C:\\projects\\commander\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5644,11 +5644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\patric\\projects\\Commander\\Commander.csproj",
+      "projectUniqueName": "C:\\projects\\commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "c:\\Users\\patric\\projects\\Commander\\Commander.csproj",
+      "projectPath": "C:\\projects\\commander\\Commander.csproj",
       "packagesPath": "C:\\Users\\Patric\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\patric\\projects\\Commander\\obj\\",
+      "outputPath": "C:\\projects\\commander\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
